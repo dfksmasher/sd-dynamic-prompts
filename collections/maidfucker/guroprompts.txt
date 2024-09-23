@@ -1,0 +1,10 @@
+headshot
+destroyed_head
+no_head
+beheaded
+neck_cut
+damaged_torso
+slashed_body
+gib
+torn cloths
+blood, bleeing, wounds, splatter, bruises

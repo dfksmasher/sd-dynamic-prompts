@@ -1,0 +1,128 @@
+<lora:char-al-KaedeJohanNouvel:1> kaedejohannouvel, long hair, yurigaoka girls academy school uniform, black pantyhose,
+<lora:reco-mushihimesama-richy-v1:1> reco, blue sailor collar, yellow bow, brooch, blue skirt, white thighhighs, elbow gloves, white gloves, mutlicolored hair, gradient hair
+<lora:akira asai s1-lora-nochekaiser:1> akira asai, short hair, black hair, messy hair, bags under eyes, sanpaku, (black eyes:1.5), hair between eyes, skirt, shirt, school uniform, white shirt, pleated skirt, necktie, striped, collared shirt, red necktie, grey skirt, sleeves rolled up, shirt tucked in, striped necktie,
+<lora:nazuna nanakusa s1-lora-nochekaiser:1> nazuna nanakusa, short hair, bangs, blue eyes, pink hair, braid, blunt bangs, hair rings, ringed eyes, thighhighs, navel, bare shoulders, shorts, sleeveless, midriff, belt, black thighhighs, crop top, groin, short shorts, clothing cutout, turtleneck, black shorts, cleavage cutout, tank top, sleeveless turtleneck,
+<lora:seri kikyou s1-lora-nochekaiser:1> seri kikyou, long hair, blonde hair, hair between eyes, (yellow eyes:1.3), skirt, shirt, long sleeves, jewelry, school uniform, white shirt, pleated skirt, earrings, collared shirt, black skirt, sweater, piercing, ear piercing, gyaru, brown sweater,
+<lora:android18-lora-nochekaiser:1> android 18, blonde hair, blue eyes, eyelashes, hoop earrings, short hair, earrings, belt, black legwear, black shirt, breast pocket, cleavage, collarbone, denim, denim skirt, high-waist skirt, jewelry, long sleeves, pocket, shirt, shirt tucked in, skirt, striped, striped sleeves, waistcoat, 
+<lora:elmatest:1> elma, black hair, blue eyes, glasses, multicolored hair, short hair, slit pupils, collared shirt, long sleeves, necktie, office lady, pencil skirt, shirt, skirt, wing collar,
+<lora:char-dragonmaid-Kanna:1> kannakamui, dress, thighhighs,  dragon horns, hair beads, low twintails,
+<lora:dragon kobayashi s2-lora-nochekaiser:1> kobayashi, ponytail, pink hair, glasses, short hair, (brown eyes:1.5), shirt, long sleeves, white shirt, collared shirt, pants, black pants, office lady,
+<lora:lucoatest:1> lucoa, blonde hair, blue hair, dragon girl, gradient hair, green hair, hair between eyes, horns, horns through headwear, (huge breasts:1.2), multicolored hair, baseball cap, cap, hat, green eyes, (purple eyes:1.2), yellow pupils, (heterochromia:1.2), black thighhighs, cleavage, curvy, pink footwear, thighhighs, shirt, black shirt, sleeveless, covered navel, short shorts, denim shorts, denim, shorts,
+<lora:tohrutest:1> tohru, blonde hair, dragon girl, dragon tail, fang, hair between eyes, horns, large tail, long hair, scales, tail, twintails, (yellow eyes:1.5), slit pupils, bow, frills, maid, maid headdress,
+<lora:dcsorceress-nvwls-v1:1> dcsorc, witch hat, strapless dress, detached sleeves, 
+<lora:kanon guardian of purity-lora-nochekaiser:1> kanon guardian of purity, long hair, bangs, hair between eyes, very long hair, ahoge, white hair, (grey eyes:1.5),skirt, gloves, long sleeves, navel, holding, pantyhose, pleated skirt, boots, black gloves, elbow gloves, wide sleeves, black skirt, black footwear, black pantyhose, thigh strap,
+<lora:char-eva-asuka:1> asuka langley soryu, blue eyes, hair between eyes, headgear, interface headset, orange hair,  bodysuit, long sleeves, plugsuit, red bodysuit,
+<lora:misatokatsuragi:1> misato katsuragi, long hair, (brown eyes:1.2), blue hair, (purple hair:1.2), hat, dress, bare shoulders, jewelry, jacket, earrings, open clothes, sleeveless, necklace, black dress, open jacket, sleeveless dress, beret, short dress, cross, red headwear, (red jacket:1.5), cross necklace,
+<lora:rei ayanami rebuild-lyco-nochekaiser:1> rei ayanami, blue hair, short hair, (red eyes:1.5), blue dress, dress, neck ribbon, pinafore dress, red ribbon, ribbon, school uniform, short sleeves, short-sleeved sweater, sweater,
+<lora:ritsuko akagi rebuild-lora-nochekaiser:1> ritsuko akagi, short hair, blonde hair, mole, mole under eye, (parted bangs:1.5), (green eyes:1.5), lipstick, skirt, jewelry, pantyhose, earrings, belt, pencil skirt, labcoat, shirt, purple shirt, turtleneck, zipper, 
+ <lora:char-FayeValentine:1> faye valentine, yellow hairband, yellow crop top, red shirt, off shoulder, tied shirt, suspenders, midriff, yellow shorts, thighhighs, high heel boots
+<lora:artoria pendragon ubw-lora-nochekaiser:1> artoria pendragon, artoria pendragon \(fate\), saber, blonde hair, (green eyes:1.5), ahoge, sidelocks, hair bun, single hair bun, braid, skirt, pantyhose, scarf, coat, (blue scarf:1.5), (white coat:1.5), 
+<lora:char-galko-galko:1> cardigan, skirt, bow, large breasts, 
+<lora:char-galko-otako:1> otakogalko, glasses, pontytail, sweater, skirt, small breasts, 
+<lora:char-gg-bridget:1> bbbridget,male focus,otoko no ko,blonde hair,bangs,hair between eyes,habit,yellow ribbon,nun,cross,bare shoulders,sleeveless,fingerless gloves,cuffs,bike shorts,socks,blue footwear
+<lora:high_elf_archer:1> high_elf_archer, elf, pointy ears, long hair, sidelocks, bow, hair bow, black bow, small breasts, hair between eyes, shorts, thighhighs, brown shorts
+<lora:cowgirl-lora-nochekaiser:1> cow girl, ahoge, red hair, (purple eyes:1.1), short hair, cleavage, collarbone, frills, long sleeves, overalls, suspenders,
+<lora:onna_shinkan:1> onna_shinkan, long hair, hat, long sleeves, dress, white headwear, thighhighs, very long hair, thigh boots, wide sleeves, white thighhighs, hair between eyes
+<lora:kinue-nvwls-v1:1> kinue, earrings, blue shirt, short sleeves, capri pants, 
+<lora:asahina_mikuru_v1:1> mikuru1, 1girl, asahina mikuru, long hair, kita high school uniform, solo, blue sailor collar, serafuku, blue skirt, short sleeves, red ribbon, large breasts
+<lora:kyonko_v1:1> kk1, 1girl, ponytail, blue sailor collar, long sleeves, serafuku, blue skirt, brown cardigan, red ribbon, long hair, socks
+<lora:nagato_yuki_v10:1> ny1, school uniform, blue sailor collar, serafuku, blue skirt, long sleeves, brown cardigan, open cardigan, 
+<lora:suzumiya_haruhi_v1:1> 1girl, suzumiya haruhi, solo, kita high school uniform, blue sailor collar, blue skirt, brown hair, short hair, brown eyes, armband, hairband, medium hair, ribbon, socks, medium breasts, 
+ <lora:char-hn-ChikaHakozaki :1> chika, green hair, red eyes, 
+<lora:honjouranko-nvwls-v1:1> honjou ranko, dark skin, purple eyes, hoop earring, necklace, cleavage, tied shirt, purple bra, green skirt, 
+<lora:komi_shouko:1> komi_shouko, school uniform, white shirt
+<lora:alice_cartelet-v1:1> alice cartelet, hair ornament, white collared shirt, short sleeves, striped bow, blue pleated skirt, white thighhighs, mary janes, 
+<lora:kujo-karen_v3:1> kujo karen, union jack jacket, striped bow, white shirt, long sleeves, pleated skirt, blue skirt, kneehighs, sneakers, 
+<lora:shiranui_mai:1> shiranui_mai, japanese clothes, revealing clothes, high ponytail, pelvic curtain, ninja, thighs, 
+<lora:lan:1> fin e ld si laffinty, lanogof, belt
+<lora:chikafujiwaratest:1> chika fujiwara, black bow, blue eyes, blunt bangs, hair bow, long hair, pink hair, black dress, dress, pinafore dress, school uniform, shirt, short sleeves, shuuchiin academy school uniform, white shirt
+<lora:kaguyashinomiyatest:1> kaguya shinomiya, folded ponytail, forehead, hair ribbon, (red eyes:1.5), red ribbon, ribbon, short hair, sidelocks, black dress, dress, pinafore dress, school uniform, shirt, short sleeves, shuuchiin academy school uniform, white shirt, 
+<lora:char-LunaMarianoPerezLupiano:1> lmpl, pantyhose, 
+<lora:marinkitagawapopochichi-lyco-nochekaiser:1> marin kitagawa, blonde hair, choker, ear piercing, earrings, long hair, piercing, (red eyes:1.5), straight hair, swept bangs, black necktie, long sleeves, pleated skirt, school uniform, shirt, skirt, sleeves rolled up, white shirt,
+ lora:char-maryhunt:1> MaryHunt, frilled dress, yellow dress, cleavage, choker, earrings, long sleeves, 
+<lora:samus-nvwls-v1:1> samus aran, ponytail, hair tie, blue gloves, blue bodysuit, high heels, 
+<lora:tabira-nvwls-v1:1> tabira, hair ornament, braided ponytail, bikini armor, vambraces, 
+<lora:himiko toga s5-lora-nochekaiser:1> himiko toga, blonde hair, blunt bangs, double bun, eyebrows hidden by hair, eyeliner, hair bun, makeup, messy hair, (yellow eyes:1.5), fangs, narrow eyes, long sleeves, pleated skirt, school uniform, serafuku, skirt, 
+<lora:himiko toga s5-lora-nochekaiser:1> himiko toga, blonde hair, blunt bangs, double bun, eyebrows hidden by hair, eyeliner, hair bun, makeup, messy hair, (yellow eyes:1.5), fangs, narrow eyes, pleated skirt,  skirt,  bare shoulders, bare arms, topless, breasts out, 
+<lora:ozen:1> ozen, cape, jacket, black cape, 
+<lora:char-mnct-onoshiragiku:0.7> 1girl, solo, short hair, green hair, bob cut, maid headdress, blue eyes, large breasts, frills, vertical-striped dress, blue dress, short sleeves,  black pantyhose, 
+<lora:calamitymary-nvwls-v1:1> calamity mary, mini hat, earrings, bikini, belt, pleated skirt, detached sleeves, 
+<lora:ripple-nvwls-v1:1> mgrpripple, hair ornament, side ponytail, red scarf, bikini top, purple miniskirt, detached sleeves, fishnets, gloves, thighhighs
+<lora:sisternana-nvwls-v1:1> sisternana, symbol-shaped pupils, nun, veil, black dress, elbow gloves, white thighhighs, 
+<lora:kaijin_hime_do-s:1> kaijin_hime_do_s, collar, bondage outfit, facial mark, forehead mark, heart, mask, black sclera, bdsm, spikes, colored sclera, dominatrix, spiked collar
+<lora:fubuki:1> fubuki\(one punch man\), black hair, green eyes, taut dress, fur coat, short hair, large breasts, 
+<lora:char-opm-tatsumaki:1> tatsumaki, green hair,green eyes,curly hair, short hair
+<lora:dawn_v2:1> dawn pokemon, long hair,  blue eyes, dark blue hair, beanie, hairpin
+<lora:jessie_pokemon:1> jessie_pokemon, earrings, team rocket uniform, crop top, very long hair, purple hair, hair slicked back, 
+<lora:char-poke-misty:1> misty \(pokemon\), side ponytail, suspenders, sneakers, midriff, denim shorts, yellow tank top
+<lora:char-qb-irma:1> dark-skinned female, default_ou
+<lora:char-rnl-Muginami:1> muginami, red bodysuit, navel cutout, elbow gloves, skirt, white thighhighs, 
+<lora:char-RyuukaShimizudani:1> ryuukashimizudani, serafuku, red neckerchief, white thighhighs, 
+<lora:char-sbr-MashimaHimeko:1> himeko, very long hair, red eyes, hair bow, 
+<lora:anya forger s1-lora-nochekaiser:1> anya forger, bangs, (green eyes:1.5), pink hair, ahoge, hair ornament, child, female child, long sleeves, dress, school uniform, socks, black dress, eden academy school uniform,
+<lora:cammy_white:1> cammy_white, gloves, fingerless gloves, long hair, leotard, hat, twin braids, highleg leotard, highleg, beret, green leotard, 
+<lora:yor briar s1-lora-nochekaiser:1> yor briar, black hair, (red eyes:1.5), earrings, gold hairband, hairband, long hair, sidelocks, bare shoulders, collarbone, covered navel, dress, long sleeves, off shoulder, off-shoulder dress, off-shoulder sweater, pantyhose, red sweater, sweater, sweater dress, thighs,
+<lora:reikoyoshinaga-sl-richy-v1:1> reiko, white shirt, black skirt, medium hair, 
+<lora:sailormoonusagi-lora-nochekaiser:1> sailor moon, blonde hair, blue eyes, double bun, hair bun, hair ornament, long hair, twintails, circlet, (parted bangs:1.5), back bow, blue sailor collar, blue skirt, boots, bow, brooch, choker, crescent moon, elbow gloves, gloves, jewelry, knee boots, magical girl, pleated skirt, red bow, red choker, ribbon, sailor collar, sailor senshi uniform, skirt, white gloves, 
+<lora:carina-nvwls-v1:0.8> carina verritti, hat, earrings, dress, ribbon blue skirt, see-through, garter straps, thighhighs, 
+<lora:char-snf-frieren:1> aafrie, long hair, white hair, twintails, pointy ears, earrings, thick eyebrows, white capelet, striped shirt, long sleeves, belt, white skirt, black pantyhose, 
+<lora:lindseythorndyke-sonicx-richy-v2:1> lindsey, earrings, pearl necklace, 
+<lora:char-sp-SeiraKurusu:1> seirakurusu, long hair, braid, colored inner hair, choker, black jacket, cropped jacket, short sleeves, black crop top, leather, black skirt, white belt, thigh boots
+<lora:char-st-KotoneNoda:1> kotonenoda, kotonenoda, school uniform, beige sweater, long sleeves, shirt, pleated skirt, kneehighs, red necktie
+<lora:char-TaekoNagafuji:1> taekonagafuji, glasses,school uniform, grey skirt, cardigan, blazer, kneehighs, yellow scarf
+<lora:acueidtest:1> arcueid brunestud, blonde hair, (red eyes:1.5), short hair, ahoge, long skirt, (purple skirt:1.1), skirt, sweater, turtleneck, white sweater,
+<lora:cscherzen-nvwls-v1:1> charlotte scherzen, purple eyes, purple jacket, epaulettes, cleavage, purple skirt, thighhighs, garter straps, 
+<lora:videlv2-lora-nochekaiser:1> videl, black hair, blue eyes, eyelashes, (parted bangs:1.5), twintails, bike shorts, black gloves, black legwear, collarbone, fingerless gloves, gloves, shirt, short sleeves, white shirt, 
+<lora:barbara-lora-nochekaiser:1> barbara, blue eyes, blonde hair, drill hair, eyes visible through hair, hair between eyes, hair ornament, medium hair, ringlets, sidelocks, twintails, bare shoulders, black headwear, blue headwear, cross, cross print, detached sleeves, dress, grey dress, hair ornament, hat, hat ornament, jewelry, long sleeves, off shoulder, off-shoulder dress, puffy long sleeves, puffy sleeves, white dress, white headwear,
+<lora:ganyutest:1> ganyu, blue hair, goat horns, horns, long hair, (purple eyes:1.1), sidelocks, backless outfit, bare shoulders, bell, black gloves, black pantyhose, bodystocking, bodystocking under clothes, chinese knot, cowbell, detached sleeves, gloves, gold trim, high heels, long sleeves, neck bell, pantyhose, pelvic curtain, white sleeves, wide sleeves
+<lora:hutaotest:1> hutao, brown hair, long hair, symbol-shaped pupils, (red eyes:1.3), twintails, flower-shaped pupils, black footwear, black headwear, black nails, black shorts, fingernails, hat, hat flower, long sleeves, shoes, shorts, socks, white socks, 
+<lora:luminetest:1> lumine, blonde hair, flower, hair between eyes, hair flower, hair ornament, short hair, short hair with long locks, sidelocks, (yellow eyes:1.5),  boots, detached sleeves, dress, thigh boots, white dress, white feathers, white flower, white footwear,
+<lora:niloutest:1> nilou, red hair, twintails, blue eyes, long hair, blue skirt, bracer, circlet, crop top, dancer, detached sleeves, fake horns, gladiator sandals, gold footwear, gold trim, horns, jewelry, long sleeves, neck ring, puffy long sleeves, puffy sleeves, sandals, skirt, thighlet, thighs, veil, white headwear, white sleeves, white veil
+<lora:yaemiko-lora-nochekaiser:1> yae miko, animal ears, floppy ears, fox ears, hair between eyes, long hair, pink hair, (purple eyes:1.1), pink hair, bare shoulders, detached sleeves, earrings, hair ornament, high heels, japanese clothes, long sleeves, sideboob, thigh strap, thighs, wide sleeves,
+<lora:sato_shin-v13:1> sato shin, blonde hair, ahoge, green eyes, large breasts , casual_outfit, short twintails , hair ornament, hair bobbles , bare shoulders, long sleeves, necklace, pink shirt, off shoulder , necklace , yellow skirt, pleated skirt
+<lora:fuyukotest:1> fuyuko mayuzumi, black hair, (brown eyes:1.5), long hair, two side up, black bow, black bowtie, black ribbon, black skirt, bow, bowtie, frilled shirt, frills, jirai kei, long sleeves, neck ribbon, (pink shirt:1.5), ribbon, shirt, skirt, white shirt,
+<lora:madokahiguchitest:1> madoka higuchi, brown hair, eyebrows hidden by hair, hair ornament, hairclip, mole, mole under eye, (purple eyes:1.1), short hair, wavy hair,
+<lora:rankokanzakitest-clean:1> ranko, (drill hair:1.5), grey hair, long hair, pale skin, (red eyes:1.5), twin drills, black dress, dress, gothic, gothic fashion, neck garter,
+<lora:rinshibuyatest:1> rin shibuya, black hair, (green eyes:1.5), long hair, black gloves, black gothic dress (idolmaster), black ribbon, black shirt, choker, collarbone, gloves, hair flower, hair ornament, hair ribbon, idol, purple flower, ribbon, shirt, sleeveless, sleeveless shirt,
+<lora:queensblade_alleyne:1> alleyne, elf, side braid, blonde hair, blue eyes, beret, cape, skirt, thighhighs, green footwear, thigh boots, elbow gloves, midriff, cleavage
+<lora:cinderella-qb-richy-v1:1> qbcinderella, qbcinderella, long hair, tiara, detached collar, armor, bikini armor, pauldrons, wide sleeves, frilled sleeves, showgirl skirt, white thighhighs, 
+<lora:char-qb-Leina:1> leinav4, loincloth, buckle, cleavage, weapon, sword, armor, shield, gauntlet, glove,
+<lora:char-qb-melpha:1> melpha, glasses, hat, blonde hair
+<lora:queensblade_nanael:1> nanael, angel, armor, polka dot panties, thighhighs, blue hair, green eyes, boots, elbow gloves, angel wings, asymmetrical wings,
+<lora:queensblade_shizuka:1> shizuka, blue eyes, large breasts, ninja, japanese armor, tunic, single shoulder pad, obi, bracer,
+<lora:char-ll-AnjuYuuki:1> AnjuYuuki, long hair, AnjuYuuki, long hair, school uniform, white blazer, long sleeves, striped necktie, pleated skirt, black socks, 
+<lora:eliayase-lora-nochekaiser:1> eli ayase, yellow hair, blue eyes, ponytail, hair ribbon, otonokizaka school uniform, pleated skirt, school uniform, short sleeves, skirt, summer uniform, sweater vest, (yellow sweater vest:1.5),
+<lora:kananmatsuura-lora-nochekaiser:1> kanan matsuura, blue hair, long hair, ponytail, (purple eyes:1.1), sidelocks, aqua neckerchief, grey sailor collar, grey skirt, miniskirt, neckerchief, pleated skirt, sailor collar, sailor shirt, school uniform, serafuku, shirt, skirt, summer uniform, uranohoshi school uniform, white shirt, 
+<lora:kotoriminami-lora-nochekaiser:1> kotori minami, brown hair, (brown eyes:1.3), one side up, hair ribbon, ribbon, long hair, blazer, blue skirt, jacket, otonokizaka school uniform, pleated skirt, school uniform, winter uniform, 
+<lora:makinishikinotest:1> maki nishikino, (purple eyes:1.1), red hair, short hair, black headwear, black thighhighs, bokura wa ima no naka de, bow, bowtie, choker, fingerless gloves, frilled thighhighs, frills, gloves, half-skirt, hat, headband, mini hat, navel, red bow, red gloves, red hair, shirt, short sleeves, skirt, suspender skirt, suspenders, thighhighs, white shirt 
+<lora:nicoyazawa-lora-nochekaiser:1> nico yazawa, black hair, (red eyes:1.5), twintails, hair bow, bow, red bow, blazer, blue skirt, jacket, otonokizaka school uniform, pleated skirt, school uniform, winter uniform,
+<lora:nozomitoujoutest:1> nozomi toujou, (green eyes:1.5), purple hair, twintails, low twintails, scrunchie, long hair, otonokizaka school uniform, pleated skirt, school uniform, short sleeves, skirt, summer uniform, sweater vest, yellow sweater vest,
+<lora:rubykurosawa-lora-nochekaiser:1> ruby kurosawa, aqua eyes, medium hair, red hair, two side up, twintails, black socks, bow, bowtie, brown footwear, buttons, grey sailor collar, grey skirt, loafers, long sleeves, miniskirt, pleated skirt, sailor collar, school uniform, serafuku, shirt, shoes, skirt, uranohoshi school uniform, white shirt, winter uniform, yellow bow, yellow bowtie, 
+<lora:youwatanabetest:1> you watanabe, blue eyes, brown hair, short hair, swept bangs, aqua ribbon, bead bracelet, beads, beret, blue bow, blue footwear, blue headwear, bow, bracelet, braid, dress, frilled dress, frills, gloves, hat, jewelry, neck ribbon, ribbon, shoes, short sleeves, thighs, twin braids, twintails, white gloves, white socks,
+<lora:char-touhou-ByakurenHijiri:1> hijiri byakuren, multicolored hair,long hair,yellow eyes,layered dress,long sleeves, necklace, 
+<lora:mokou:1> fujiwara no mokou, 1girl,very long hair, suspenders, long sleeves,red eyes, white hair, bow,ribbon, hair bow, pants, hair ribbon, shirt, multiple hair bows
+<lora:reimu:1> 1girl, hair bow,ascot,hair tubes,miko,detached sleeves, 
+<lora:haniyasushin_keiki:1> haniyasushin keiki, yellow dress, green apron,
+<lora:output_name:1> hinanawi tenshi, 
+<lora:meiling:1> hong meiling,hat,red hair,blue eyes,long hair,braid,short sleeves, chinese clothes, 
+<lora:kaguya:1> 1girl,black hair,long hair,red eyes,skirt, wide sleeves, 
+<lora:char-touhou-IizunamaruMegumu:1> iizunamaru megumu, blue tokin hat, white circle scarf, blue dress, golden pauldron, black cape, pom pom (clothes), purple tengu-geta
+<lora:inubashiri_momiji_touhou:1> inubashiri_momiji, wolf girl, red eyes, tokin hat, hat, white hair, pom pom (clothes), white shirt, bare shoulders, red headwear, skirt, 
+<lora:sakuya:1> 1girl,blue eyes, maid headdress, braid, grey hair, maid, twin braids, short hair, wrist cuffs, bow, hair bow, short sleeves, ribbon, apron, 
+<lora:joutouguu_mayumi:1> joutouguu mayumi, armored dress, blonde hair, bob cut, double bun,
+<lora:touhou_kochiya:1> kochiya sanae, hair tubes, frog hair ornament, snake hair ornament, shirt, long sleeves, wide sleeves, blue skirt
+<lora:youmu-mver:1> 1girl, white hair,short hair,hair ribbon,hairband, green eyes,bow,white shirt,green vest,green skirt, 
+<lora:lily_white_13:1> lily_white, fairy wings, blue eyes
+<lora:maribel_hearn:1> maribel hearn, hat, short wavy hair, blonde hair, golden eyes, purple dress, white socks, shoes, 
+<lora:marisa:1> kirisame marisa,  1girl, blonde hair, witch hat, yellow eyes, long hair, vest,apron, bow, short sleeves, hat bow, braid, puffy sleeves, skirt,
+<lora:patchouli:1> 1girl,purple hair,purle eyes,long hair, mob cap,crescent hat ornament,ribbon,dress, 
+<lora:reisen:1> 1girl,purple hair,very long hair, rabbit ears, red eyes,black jacket,open jacket,necktie,white shirt,pink skirt, 
+<lora:char-touhou-ReiujiUtsuho:1> reiuji utsuho, wings,long hair,black hair,red eyes,hair bow,third eye, white shirt,green skirt,short sleeves, black thighhighs,
+<lora:remilia:1> remilia scarlet, red eyes, short hair, bat wings, wings, hat, blue hair, hat ribbon, short sleeves, wrist cuffs, puffy short sleeves, red ribbon, frilled shirt, white skirt, frilled, white shirt, frilled sleeves, pointy ears, white headwear,
+<lora:yuyuko:1> 1girl,saigyouji yuyuko, 
+<lora:char-touhou-TenkyuuChimata:1> tenkyuu chimata, multicolored hairband, multicolored dress, zipper lines (clothes), cape, cloud print, brown bag belt, pink boots
+<lora:char-touhou-tewi-inaba:1> Inaba Tewi, short hair, black hair, red eyes, TewiBase, carrot necklace, pink dress, short sleeves, puffy sleeves, 
+<lora:touhou_ushizaki:1> ushizaki urumi, cow girl, red horns, cow horns, cow print, japanese clothes, haori, yellow shorts, 
+<lora:touhou_kurodani:1> kurodani yamame, yellow eyes, blonde hair, hair bow, brown dress, long sleeves, silk, spider web
+<lora:shion:1> yorigami shion, blue hair, very long hair, blue eyes, hair bow, grey hoodie, short sleeves, blue skirt
+<lora:yukari_v1:1> yukari yakumo, mob cap, tabard

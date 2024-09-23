@@ -1,0 +1,21 @@
+<lora:char-al-KaedeJohanNouvel:1> KaedeJohanNouvel, long hair, yurigaoka girls academy school uniform, black pantyhose, 
+<lora:char-hma-DanchouArthur:1> danchou, single braid, bare shoulders, cleavage, blue uniform, white skirt, fingerless gloves
+<lora:char-hn-ChikaHakozaki :1> chika, green hair, red eyes, 
+<lora:char-hng-RankoHonjou:1> honjou ranko, dark skin, purple eyes, hoop earring, necklace, cleavage, tied shirt, purple bra, green skirt, 
+<lora:char-ll-AnjuYuuki:1> AnjuYuuki, long hair, AnjuYuuki, long hair, school uniform, white blazer, long sleeves, striped necktie, pleated skirt, black socks, 
+<lora:char-LunaMarianoPerezLupiano:1> LMPL, pantyhose, 
+<lora:char-maryhunt:1> MaryHunt, frilled dress, yellow dress, cleavage, choker, earrings, long sleeves
+<lora:char-mgsoa-tabira:1> tabira, hair ornament, braided ponytail, bikini armor, vambraces, 
+<lora:char-msik-calamitymary:1> calamity mary, mini hat, earrings, bikini, belt, pleated skirt, detached sleeves, 
+<lora:char-msik-ripple:1> mgrpRipple, hair ornament, side ponytail, red scarf, bikini top, purple miniskirt, detached sleeves, fishnets, gloves, thighhighs
+<lora:char-msik-SisterNana:1> sisternana, symbol-shaped pupils, nun, veil, black dress, elbow gloves, white thighhighs, 
+<lora:char-qb-cinderella:1> qbcinderella, qbcinderella, long hair, tiara, detached collar, armor, bikini armor, pauldrons, wide sleeves, frilled sleeves, showgirl skirt, white thighhighs, 
+<lora:char-rnl-Muginami:1> Muginami, red bodysuit, navel cutout, elbow gloves, skirt, white thighhighs, 
+<lora:char-RyuukaShimizudani:1> RyuukaShimizudani, serafuku, red neckerchief, white thighhighs, 
+<lora:char-sbr-MashimaHimeko:1> Himeko, very long hair, red eyes, hair bow, 
+<lora:char-sl-reikoyoshinaga:1> reiko, white shirt, black skirt, medium hair, 
+<lora:char-sonic-lindseythorndyke:1> lindsey, earrings, pearl necklace, 
+<lora:char-sp-SeiraKurusu:1> SeiraKurusu, long hair, braid, colored inner hair, choker, black jacket, cropped jacket, short sleeves, black crop top, leather, black skirt, white belt, thigh boots
+<lora:char-st-KotoneNoda:1> KotoneNoda, KotoneNoda, school uniform, beige sweater, long sleeves, shirt, pleated skirt, kneehighs, red necktie
+<lora:char-TaekoNagafuji:1> TaekoNagafuji, glasses,school uniform, grey skirt, cardigan, blazer, kneehighs, yellow scarf
+<lora:char-vd-charlottescherzen:1> charlotte scherzen, purple eyes, purple jacket, epaulettes, cleavage, purple skirt, thighhighs, garter straps, 
